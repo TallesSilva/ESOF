@@ -1,0 +1,36 @@
+.col-md-4 { 
+ border: 1px solid purple !important; 
+}
+
+.row {
+border: 1px solid purple !important;
+}
+
+
+* { 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+ }
+
+ * {	
+	font-family: 'Josefin Sans', sans-serif;
+}
+.h1 {
+     font-size: 70px; 
+}
+
+
+.modal-body {
+ background-color: #BC8F8F; 
+}
+
+.col-md-4 {
+ background-color: #EED2EE; 
+}
+
+.row {
+ background-color: #CDC9C9; 
+}
+
